@@ -67,6 +67,6 @@ Default Login Credentials for superadmin
 
 set default password for all users is  = 123456
 
-
+and added sql file on root also
 ```
 >>>>>>> 1e88ef5 (Initial commit: Laravel 10 URL Shortener)
